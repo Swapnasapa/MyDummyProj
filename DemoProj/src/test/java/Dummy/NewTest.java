@@ -7,7 +7,8 @@ import org.testng.annotations.AfterTest;
 public class NewTest {
   @Test
   public void f() {
-	  System.out.println("Test is running");
+	  System.out.println("Test1 is running");
+	  System.out.println("Test2 is running");
   }
   @BeforeTest
   public void beforeTest() {
