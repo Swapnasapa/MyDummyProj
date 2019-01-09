@@ -9,6 +9,7 @@ public class NewTest {
   public void f() {
 	  System.out.println("Test1 is running");
 	  System.out.println("Test2 is running");
+	  System.out.println("Test3 is running");
   }
   @BeforeTest
   public void beforeTest() {
